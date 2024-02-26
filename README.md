@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorianabreu
+- 👋 Hi, I’m @DorianAbreu
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Big data in Python
 
